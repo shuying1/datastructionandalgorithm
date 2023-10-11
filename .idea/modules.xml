@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bases/bases.iml" filepath="$PROJECT_DIR$/bases/bases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/code_walkthrough/code_walkthrough.iml" filepath="$PROJECT_DIR$/code_walkthrough/code_walkthrough.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastruction/datastruction.iml" filepath="$PROJECT_DIR$/datastruction/datastruction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datastructionandalgorithm.iml" filepath="$PROJECT_DIR$/datastructionandalgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heimamianshi/heimamianshi.iml" filepath="$PROJECT_DIR$/heimamianshi/heimamianshi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+    </modules>
+  </component>
+</project>
